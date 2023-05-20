@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user id="1">
+    <name>Chess</name>
+    <pname>King</pname>
+    <points>Pointless</points>
+  </user>
+  <user id="2">
+    <name>Chess</name>
+    <pname>Queen</pname>
+    <points>9</points>
+  </user>
+  <user id="3">
+    <name>Chess</name>
+    <pname>Rook</pname>
+    <points>5</points>
+  </user>
+  <user id="4">
+    <name>Chess</name>
+    <pname>Bishop</pname>
+    <points>3</points>
+  </user>
+  <user id="5">
+    <name>Chess</name>
+    <pname>Knight</pname>
+    <points>3</points>
+  </user>
+  <user id="6">
+    <name>Chess</name>
+    <pname>Pawn</pname>
+    <points>1</points>
+  </user>
+  </users>
